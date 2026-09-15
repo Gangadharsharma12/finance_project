@@ -1,1 +1,1 @@
-# finance_projec
+# finance_project
